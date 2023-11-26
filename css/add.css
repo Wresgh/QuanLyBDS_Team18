@@ -1,0 +1,440 @@
+header {
+    background-color: #007bff;
+    height: 100px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 1720px;
+    height: 189px;
+    padding: 2px 2px 2px 2px;
+    border: 1px solid #797979;
+    background-color: #ffffff;
+    box-sizing: border-box;
+  }
+  .taito{
+    width: 658px;
+  height: 85px;
+  background-color: rgba(255, 255, 255, 0);
+  box-sizing: border-box;
+  font-family: 'Arial Bold', 'Arial', sans-serif;
+  font-weight: 700;
+  color: #333333;
+  text-align: center;
+  margin-left: 500px;
+  font-size: 4em;
+  line-height: normal;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  img {
+    width: 300px;
+  height: 170px;
+  box-sizing: border-box;
+  }
+  
+  .tittle1 {
+    font-size: 1.7em;
+    font-weight: bold;
+    width: 658px;
+    margin-left: 200px;
+
+    background-color: rgba(255, 255, 255, 0);
+    box-sizing: border-box;
+    font-family: 'Arial Bold', 'Arial Regular', 'Arial', sans-serif;
+    font-weight: 700;
+    color: #333333;
+    text-align: left;
+    line-height: normal;
+  }
+  
+  /* #content aaaa {
+    font-size: 1.5em;
+    
+    margin-left: 40px;
+    font-weight: normal;
+  } */
+    /* ------------------------------------------------------ */
+      /* ------------------------------------------------------ */
+        /* ------------------------------------------------------ */
+          /* ------------------------------------------------------ */
+            /* ------------------------------------------------------ */
+  .sidebar {
+    width: 20%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .content {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .slider {
+    width: 100%;
+    height: 300px;
+    background-color: #555;
+    /* Thêm CSS cho slider bar của bạn ở đây */
+  }
+
+  .header {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .left-section, .right-section {
+    display: inline-block;
+    width: 48%;
+    margin-right: 2%;
+    box-sizing: border-box;
+  }
+
+  .textbox {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+
+  .file-input {
+    width: calc(100% - 20px);
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+
+
+    /* ------------------------------------------------------ */
+      /* ------------------------------------------------------ */
+        /* ------------------------------------------------------ */
+  /* ------------------------------------------------------ */
+  footer {
+    background-color: #333;
+    /* margin-top: 200px; */
+    padding: 20px;
+    width: 1720px;
+    height: 436px;
+    padding: 2px 2px 2px 2px;
+    border: 1px solid #797979;
+    background-color: #f2f2f2;
+    box-sizing: border-box;
+  }
+  .imgfooter{
+    width: 200px;
+    height: 90px;
+
+  }
+
+  .column {
+    width: 25%;
+    float: left;
+    box-sizing: border-box;
+    padding: 0 20px;
+    margin-top: 50px;
+  }
+  .column1,.column2,.column3 {
+    width: 25%;
+    float: left;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding: 0 20px;
+  }
+  .column h2 {
+    color: #fff;
+  }
+
+.hotline p{
+    width: 327px;
+  height: 27px;
+  background-color: rgba(255, 255, 255, 0);
+  box-sizing: border-box;
+  font-family: 'Hobo Std ', 'Hobo Std', sans-serif;
+  font-weight: 700;
+  color: #333333;
+  text-align: left;
+  margin-top: 40px;
+  line-height: normal;
+}
+.hotline2 p{
+  width: 327px;
+  height: 27px;
+  background-color: rgba(255, 255, 255, 0);
+  box-sizing: border-box;
+  font-family: 'Hobo Std ', 'Hobo Std', sans-serif;
+  font-weight: 700;
+  color: #333333;
+  text-align: left;
+  margin-top: 17px;
+  line-height: normal;
+}
+  .icon {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .hotline, .customer-support {
+    margin-left: 10px;
+    vertical-align: middle;
+  }
+  .hl{
+  font-size: 2em;
+  background-color: rgba(255, 255, 255, 0);
+
+  }
+
+  .textbox {
+    width: 200px;
+    padding: 8px;
+    margin-top: 10px;
+  }
+  .submit-button {
+    width: 20%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color:#169bd5;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .submit-button1 {
+    width: 404px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color:#169bd5;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  /*  */
+  #sidebar {
+    position: absolute;
+    width: 460px;
+    height: 1906px;
+    padding: 2px 2px 2px 2px;
+    border: 1px solid #797979;
+    background-color: #ffffff;
+    box-sizing: border-box;
+  }
+  
+  #sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #sidebar ul li {
+    padding: 15px;
+    text-align: center;
+
+    cursor: pointer;
+    transition: background-color 0.3s;
+
+  }
+
+  #sidebar ul li a{
+  width: 454px;
+  height: 83px;
+  padding: 2px 2px 2px 2px;
+    text-decoration: none;
+    font-size: 1.7em;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+  color: #000000;
+  /* background-color: #f0f0f0; */
+  box-sizing: border-box;
+
+}
+
+
+#sidebar ul li ul {
+  display: none;
+  background-color: #ffffff;
+  padding: 10px;
+  position: absolute;
+  border:1px solid #000000;
+  width: 454px;
+  top: 0;
+  left: 100%;
+  z-index: 1;
+}
+
+#sidebar ul li.active ul {
+  display: block;
+}
+
+
+
+  #manage-property:disabled {
+    background-color: #f0f0f0;
+    box-sizing: border-box;
+  }
+  
+  #sidebar ul li:hover {
+    background-color: rgb(63, 188, 238);
+  }
+  
+  #content {
+    margin-left: 250px;
+    padding: 20px;
+  }
+  
+  .function {
+    background-color: #fff;
+    padding: 20px;
+    margin-left: 200px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+  }
+
+  .banner {
+    display: flex;
+    margin-left: 200px;
+
+}
+
+.banner p {
+  width: 650px;
+  height: 42px;
+  background-color: rgba(255, 255, 255, 0);
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+  color: #333333;
+  text-align: left;
+  line-height: normal;
+  font-size: 1.5em;
+  margin: 0;
+}
+
+
+
+.columnn {
+  flex: 1;
+  padding-top: -20px;
+
+}
+
+.columnn h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.columnn input {
+  width: 450px;
+  padding: 10px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.columnn input:focus {
+  outline: none;
+  border-color: #3498db;
+}
+
+.columnn input::placeholder {
+  color: #aaa;
+  padding-left: 20px;
+}
+
+.custom-select {
+  position: relative;
+  /* display: inline-block; */
+}
+.select-box {
+  
+  width: 402px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+  font-size: 16px;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.35);
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+.select-box {
+  
+  width: 402px;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.35);
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+.select-box:focus {
+  outline: none;
+  border-color: #3498db;
+}
+
+
+.dk{
+  margin-left: 220px;
+  width: 1100px;
+  background-color: rgb(183, 227, 245);
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 9px;
+  overflow: hidden;
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.35);
+      
+}
+.dk p {
+  font-family: 'Arial Bold', 'Arial Regular', 'Arial', sans-serif;
+  font-weight: 700;
+}
+
+.columnn input[type="text"] {
+  width: 400px;
+  height: 40px;
+  padding: 2px 2px 2px 2px;
+  border-radius: 5px;
+  /* border: 1px solid #797979; */
+  background-color: #ffffff;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.35);
+}
+
+.columnn input[type="submit"] {
+  background-color: #3498db;
+  color: #fff;
+  cursor: pointer;
+}
+
+.columnn input[type="submit"]:hover {
+  background-color: #217dbb;
+}
+.textbox111 {
+   width: 390px;
+  /*height: 30px; */
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.textbox111 label {
+  font-weight: bold;
+}
+
+input[type="file"] {
+  padding: 0;
+  margin: 0;
+  width: 350px;
+}
